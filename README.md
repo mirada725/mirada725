@@ -219,7 +219,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![mirada725's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mirada725&theme=github	)](https://github.com/mirada725/github-readme-activity-graph)
 
  
 </details>
@@ -228,9 +228,9 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirada725&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="mirada725" /></a> </p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+[![@mirada725's Holopin board](https://holopin.io/api/user/board?user=mirada725)](https://holopin.io/@mirada725)
 	
 </details>
 	
