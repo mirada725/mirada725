@@ -24,12 +24,20 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+    # Step 3: Move the file to output folder
+      - name: Move Snake to Output Directory
+        run: |
+            mkdir -p output
+            mv dist/snake.svg output/github-contribution-grid-snake.svg
+  
+        # Step 4: Commit and push the snake.svg file to the repository
+      - name: Commit and Push snake.svg
+        run: |
+            git config --local user.name "GitHub Actions"
+            git config --local user.email "actions@github.com"
+            git add output/github-contribution-grid-snake.svg
+            git commit -m "Add snake animation"
+            git push origin master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
