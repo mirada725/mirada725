@@ -25,11 +25,14 @@
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
+<!--
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<picture><img align="right" src="https://raw.githubusercontent.com/mirada725/coding_girl.png" alt="Coding girl" /></picture>
+-->
 
-<br><br>
+<picture><img align="right" src="./coding_girl.png" alt="Coding girl" width=250px /></picture>  
+
+
+<br>
 
 - :school: I am an third year underdraduate at [Faculty of Engineering](https://www.eng.ruh.ac.lk/) at [University of Ruhuna](https://ruh.ac.lk/).
 - :technologist: I love using Software as a solution for every `Problem`.
