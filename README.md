@@ -34,7 +34,7 @@
 
 <br>
 
-- :school: I am a third year underdraduate at [Faculty of Engineering](https://www.eng.ruh.ac.lk/) at [University of Ruhuna](https://ruh.ac.lk/).
+- :school: I am a final year underdraduate at [Faculty of Engineering](https://www.eng.ruh.ac.lk/) at [University of Ruhuna](https://ruh.ac.lk/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `HackerRank`, `Leetcode`.
 - :student: I’m currently learning `Computer Engineering`.
